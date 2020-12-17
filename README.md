@@ -9,10 +9,12 @@
 ★ Delete all the users from the list with one click.<br />
 ★ The user's list organized when printing users as PDF.<br />
 
-<img src="https://i.ibb.co/HN7rRkj/zodiac-2.png" alt="zodiac-2" border="0">
+<img src="https://i.ibb.co/HN7rRkj/zodiac-2.png" alt="zodiac-2" border="0"><br />
 
-Edit user:
-<img src="https://i.ibb.co/tK8bwBc/edit.png" alt="edit" border="0">
+Edit user:<br />
 
-Delete All users:
-<img src="https://i.ibb.co/zr9nPy8/delete.png" alt="delete" border="0">
+<img src="https://i.ibb.co/tK8bwBc/edit.png" alt="edit" border="0"><br />
+
+Delete All users:<br />
+
+<img src="https://i.ibb.co/zr9nPy8/delete.png" alt="delete" border="0"><br />
