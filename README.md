@@ -8,3 +8,5 @@
 ★ Delete a user from the list by a given ID.<br />
 ★ Delete all the users from the list with one click.<br />
 ★ The user's list organized when printing users as PDF.<br />
+
+https://i.imgur.com/WD0fX0t.png
